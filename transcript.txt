@@ -1,0 +1,10 @@
+consult(adventure).
+start.
+open(drawer).
+take(burner_tube, drawer).
+open(bed).
+take(full_can_of_gas, bed).
+combine(burner_tube, full_can_of_gas).
+burn(metal_bars).
+n.
+n.
